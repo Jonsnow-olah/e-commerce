@@ -1,38 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+E-COMMERCE WEBSITE 
+Web3bridge e-commerce website is an e-commerce platform that was integrated with sanity, to display products.
+This website was developed using NextJs, CSS, and sanity.
 
-## Getting Started
+![image](https://github.com/Jonsnow-olah/web3bridge-e-commerce/assets/66273186/b1e37348-d99d-48d1-aae6-7b5995a20f34)
 
-First, run the development server:
+![image](https://github.com/Jonsnow-olah/web3bridge-e-commerce/assets/66273186/28f6b7dc-ec98-46ca-b79d-7a4262afc6d6)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Homepage Interface
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image](https://github.com/Jonsnow-olah/web3bridge-e-commerce/assets/66273186/2ad37fd5-93fd-43b5-ba6c-e1a4d02812ca)
+Add to cart interface
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Here is the sanity control panel that any admin can use in uploading products to the homepage.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+![image](https://github.com/Jonsnow-olah/web3bridge-e-commerce/assets/66273186/543d9c8e-2d66-4d0d-987b-16363dcdf0f0)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Add to cart function
+![image](https://github.com/Jonsnow-olah/web3bridge-e-commerce/assets/66273186/ec41c385-25ae-4b7b-a58f-afed07bc3437)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![image](https://github.com/Jonsnow-olah/web3bridge-e-commerce/assets/66273186/bdb0a17e-c996-413e-be8f-e801c517323d)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
