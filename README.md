@@ -1,4 +1,6 @@
-E-COMMERCE WEBSITE 
+E-COMMERCE WEBSITE
+
+
 Web3bridge e-commerce website is an e-commerce platform that was integrated with sanity, to display products.
 This website was developed using NextJs, CSS, and sanity.
 
